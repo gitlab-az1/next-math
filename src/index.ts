@@ -3,6 +3,7 @@ export * from './comparator';
 export * from './built-in';
 export * from './random';
 export * from './vector';
+export * from './parser';
 export * from './point';
 
 
