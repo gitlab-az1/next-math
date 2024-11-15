@@ -23,3 +23,6 @@ export function strShuffle(str: string): string {
   // Convert the array back to a string and return it
   return arr.join('');
 }
+
+
+export * from './objectUtil';
